@@ -1,7 +1,7 @@
 export default [{
-    state: "ABIA",
-    name: "Sen. E. Abaribe",
-    email: "enyiabaribe@yahoo.com",
+    state: "Munniru",
+    name: "Sen. Munniru ",
+    email: "Munnir@yahoo.com",
     phone: "08033129452"
   },
   {
