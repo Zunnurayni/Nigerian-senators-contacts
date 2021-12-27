@@ -6,8 +6,8 @@ export default [{
   },
   {
     state: "ABIA",
-    name: "Sen. O. Kalu",
-    email: "okalu@orjikalu.com",
+    name: "Sen. Techie Abba",
+    email: "Abba4good@orjikalu.com",
     phone: "08034000001"
   },
   {
